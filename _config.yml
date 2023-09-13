@@ -1,59 +1,60 @@
 baseURL: https://DeconstructionMechanics.github.io/
 languageCode: en-us
 title: DM
+description: DeconstructionMechanics' Page
 theme: minima
 
-# params:
-#   defaultTheme: auto
-#   homeInfoParams:
-#     Title: DeconstructionMechanics' Page
-#     Content: DeconstructionMechanics : 解構力学者(かいこう りきがくしゃ, kaikou-rikigakusha) : 解构力学家(jiegoulixuejia)
-#   socialIcons:
-#     - name: "github"
-#       url: "https://github.com/DeconstructionMechanics"
+params:
+  defaultTheme: auto
+  homeInfoParams:
+    Title: DeconstructionMechanics' Page
+    Content: DeconstructionMechanics : 解構力学者(かいこう りきがくしゃ, kaikou-rikigakusha) : 解构力学家(jiegoulixuejia)
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/DeconstructionMechanics"
 
-#   ShowReadingTime: true
-#   ShowToc: true
-#   TocOpen: true
-#   ShowBreadCrumbs: true
-#   # editPost:
-#   #   URL: "https://github.com/NeumoNeumo/blog/tree/main/content"
-#   #   Text: "Suggest Changes" # edit text
-#   #   appendFilePath: true # to append file path to Edit link
-#   ShowPostNavLinks: true
-#   ShowCodeCopyButtons: true
-#   comments: true
-#   assets:
-#     disableFingerprinting: true
-#     # favicon: ""
-#     # favicon16x16:  "/static/favicon-16x16.png"
-#     # favicon32x32:  "<link / absolute url>"
-#     # apple_touch_icon:  "<link / absolute url>"
-#     # safari_pinned_tab:  "<link / absolute url>"
-#   math: true
+  ShowReadingTime: true
+  ShowToc: true
+  TocOpen: true
+  ShowBreadCrumbs: true
+  # editPost:
+  #   URL: "https://github.com/NeumoNeumo/blog/tree/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  comments: true
+  assets:
+    disableFingerprinting: true
+    # favicon: ""
+    # favicon16x16:  "/static/favicon-16x16.png"
+    # favicon32x32:  "<link / absolute url>"
+    # apple_touch_icon:  "<link / absolute url>"
+    # safari_pinned_tab:  "<link / absolute url>"
+  math: true
 
-# outputs:
-#   home:
-#     - HTML
-#     - RSS
-#     - JSON
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
-# menu:
-#   main:
-#     - identifier: CheatSheet
-#       name: CheatSheet
-#       url: /Search/
-#       weight: 10
-#     - identifier: Research
-#       name: Research
-#       url: /Archives/
-#       weight: 20
-#     - identifier: Portfolio
-#       name: Portfolio
-#       url: /
-#       weight: 30
-#     - identifier: Github
-#       name: Github
-#       url: /
-#       weight: 40
+menu:
+  main:
+    - identifier: CheatSheet
+      name: CheatSheet
+      url: /Search/
+      weight: 10
+    - identifier: Research
+      name: Research
+      url: /Archives/
+      weight: 20
+    - identifier: Portfolio
+      name: Portfolio
+      url: /
+      weight: 30
+    - identifier: Github
+      name: Github
+      url: /
+      weight: 40
     
