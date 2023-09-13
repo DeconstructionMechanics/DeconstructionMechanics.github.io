@@ -1,2 +1,3 @@
-[site](DeconstructionMechanics.github.io)
-DeconstructionMechanics.github.io
+[site](https://DeconstructionMechanics.github.io/)
+
+https://DeconstructionMechanics.github.io/
