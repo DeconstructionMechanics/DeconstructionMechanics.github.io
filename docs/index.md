@@ -1,2 +1,5 @@
-### [**CV**](./cv/cv.md)
+
+
+### [**Notes**]
+### [**Research**]
 ### [**Portfolio**](https://www.artstation.com/easonvan)
