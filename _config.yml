@@ -8,7 +8,7 @@ params:
   defaultTheme: auto
   homeInfoParams:
     Title: DeconstructionMechanics' Page
-    Content: DeconstructionMechanics : 解構力学者(かいこう りきがくしゃ, kaikou-rikigakusha) : 解构力学家(jiegoulixuejia)
+    Content: 'DeconstructionMechanics : 解構力学者(かいこう りきがくしゃ, kaikou-rikigakusha) : 解构力学家(jiegoulixuejia)'
   socialIcons:
     - name: "github"
       url: "https://github.com/DeconstructionMechanics"
