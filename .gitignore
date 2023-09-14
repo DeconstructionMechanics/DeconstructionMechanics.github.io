@@ -1,4 +1,4 @@
 /.vscode
 *.md
 !README.md
-# /assets/menu.html
+/assets/menu_template.html
