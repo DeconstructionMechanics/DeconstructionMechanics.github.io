@@ -9,5 +9,10 @@ cheat sheet for math knowledge points
 
 
 ## ragrange
+- a
+- b
 
+```
+print('helloworld')
+```
 
