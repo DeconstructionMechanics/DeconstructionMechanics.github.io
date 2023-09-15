@@ -1,0 +1,1 @@
+- './katex/*' copied from local installed VSCode extension 'Markdown Preview Enhanced'(its [LISENCE](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/blob/HEAD/LICENSE.md)). If not do so, there would be some issue related to the rendering of latex math formulas.

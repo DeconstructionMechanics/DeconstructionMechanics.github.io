@@ -19,7 +19,7 @@ for a given $y = f(x)$
 
 $f(x_1)-f(x_0) = f'(x_0)(x_1-x_0) + o(x_1-x_0)$
 
-![taylor1](../../assets/img/taylor1.png)
+![taylor1](../assets/img/taylor1.png)
 
 then we get:
 

@@ -1,8 +1,7 @@
 /.vscode
 *.md
 !README.md
-/assets/menu_template.html
-/assets/menu_template_copy.html
+/util
 *.html
 !index.html
 !404.html
