@@ -7,3 +7,4 @@
 !404.html
 *.pdf
 *.ipynb
+!assets/mnistgan/mnist_gan.ipynb
