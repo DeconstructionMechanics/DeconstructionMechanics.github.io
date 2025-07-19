@@ -1,10 +1,11 @@
 /.vscode
-*.md
-!README.md
-/util
+# *.md
+# !README.md
+# /util
 *.html
 !index.html
 !404.html
+!/util/*.html
 *.pdf
 *.ipynb
 !assets/mnistgan/mnist_gan.ipynb
